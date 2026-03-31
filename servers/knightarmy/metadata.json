@@ -5,7 +5,7 @@
       "addresses": [
               "knightarmy.de"
       ],
-      "primaryAddress": "play.knightarmy.de",
+      "primaryAddress": "knightarmy.de",
       "primaryMinecraftVersion": "1.21.1",
       "minecraftVersions": [
               "1.8.9",
